@@ -1,4 +1,3 @@
-package com.avaya.dnm.ping;
 
 import static org.junit.Assert.*;
 import junit.framework.TestCase;
